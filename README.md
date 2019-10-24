@@ -19,14 +19,10 @@ An iOS app that will allow users to record their voice and will then modulate th
 * Building stackviews
 * Manulating audio records and applying autio effects
 
-<div>
-
 ## ScreenShots
 
 <img src="https://github.com/MohamedShiha/Pitch-Perfect/blob/master/Screenshots/1.png" width="45%" align="left"/>
 <img src="https://github.com/MohamedShiha/Pitch-Perfect/blob/master/Screenshots/2.png" width="45%" align="right"/>
-
-</div>
 
 ## Authors
 
