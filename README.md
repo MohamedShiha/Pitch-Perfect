@@ -13,12 +13,6 @@ An iOS app that will allow users to record their voice and will then modulate th
 * Open the project folder in xcode.
 * Run the project using the `play` button on top left corner of xcode as you can see below in the screenshot.
 
-## Things Learnt
-
-* Setting up a navigation structure that creates an intuitive flow through the app
-* Building stackviews
-* Manulating audio records and applying autio effects
-
 ## Authors
 
 * [Mohamed Shiha](https://github.com/MohamedShiha)
