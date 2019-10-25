@@ -11,7 +11,7 @@ An iOS app that will allow users to record their voice and will then modulate th
 
 * [Clone](https://github.com/MohamedShiha/Pitch-Perfect.git) or [Download](https://github.com/MohamedShiha/Pitch-Perfect/archive/master.zip) this repository.
 * Open the project folder in xcode.
-* Run the project using the `play` button on top left corner of xcode as you can see below in the screenshot.
+* Run the project using the `play` button on top left corner of Xcode
 
 ## Authors
 
